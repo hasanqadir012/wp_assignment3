@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HUAWEI\\source\\repos\\Assignment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C36F1FFA-169C-461C-A3FA-7D9639B6319D}|Assignment3.csproj|c:\\users\\huawei\\source\\repos\\assignment3\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36F1FFA-169C-461C-A3FA-7D9639B6319D}|Assignment3.csproj|solutionrelative:default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36F1FFA-169C-461C-A3FA-7D9639B6319D}|Assignment3.csproj|c:\\users\\huawei\\source\\repos\\assignment3\\product.aspx\\product.aspx.design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36F1FFA-169C-461C-A3FA-7D9639B6319D}|Assignment3.csproj|solutionrelative:product.aspx\\product.aspx.design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36F1FFA-169C-461C-A3FA-7D9639B6319D}|Assignment3.csproj|c:\\users\\huawei\\source\\repos\\assignment3\\product.aspx\\product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36F1FFA-169C-461C-A3FA-7D9639B6319D}|Assignment3.csproj|solutionrelative:product.aspx\\product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36F1FFA-169C-461C-A3FA-7D9639B6319D}|Assignment3.csproj|c:\\users\\huawei\\source\\repos\\assignment3\\login.aspx\\login.aspx.design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36F1FFA-169C-461C-A3FA-7D9639B6319D}|Assignment3.csproj|solutionrelative:login.aspx\\login.aspx.design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36F1FFA-169C-461C-A3FA-7D9639B6319D}|Assignment3.csproj|c:\\users\\huawei\\source\\repos\\assignment3\\login.aspx\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36F1FFA-169C-461C-A3FA-7D9639B6319D}|Assignment3.csproj|solutionrelative:login.aspx\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\Assignment3\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Default.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\Assignment3\\Default.aspx.designer.cs",
+              "RelativeToolTip": "Default.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:23:01.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.aspx.design.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\Assignment3\\Product.aspx\\Product.aspx.design.cs",
+              "RelativeDocumentMoniker": "Product.aspx\\Product.aspx.design.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\Assignment3\\Product.aspx\\Product.aspx.design.cs",
+              "RelativeToolTip": "Product.aspx\\Product.aspx.design.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:22:41.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\Assignment3\\Product.aspx\\Product.aspx.cs",
+              "RelativeDocumentMoniker": "Product.aspx\\Product.aspx.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\Assignment3\\Product.aspx\\Product.aspx.cs",
+              "RelativeToolTip": "Product.aspx\\Product.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:22:27.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx.design.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\Assignment3\\Login.aspx\\Login.aspx.design.cs",
+              "RelativeDocumentMoniker": "Login.aspx\\Login.aspx.design.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\Assignment3\\Login.aspx\\Login.aspx.design.cs",
+              "RelativeToolTip": "Login.aspx\\Login.aspx.design.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:20:38.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\Assignment3\\Login.aspx\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\Assignment3\\Login.aspx\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:19:28.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

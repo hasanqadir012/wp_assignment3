@@ -1,0 +1,2 @@
+C:\Users\HUAWEI\source\repos\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
